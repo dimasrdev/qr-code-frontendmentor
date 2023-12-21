@@ -19,12 +19,12 @@ export default function Home() {
         content={`Scan the QR code to visit Frontend Mentor and take your coding skills to the next level`}
       />
 
-      <div className="attribution">
+      <div className="text-center">
         Challenge by{" "}
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
           Frontend Mentor
         </a>
-        . Coded by <a href="#">Your Name Here</a>.
+        . Coded by <a href="#">Dimas Wibowo</a>.
       </div>
     </div>
   );
